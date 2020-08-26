@@ -1,0 +1,7 @@
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/nahuel/repos/repos/algoritmos_2/Taller/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir

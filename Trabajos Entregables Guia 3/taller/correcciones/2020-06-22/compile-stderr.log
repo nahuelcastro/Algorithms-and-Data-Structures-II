@@ -1,0 +1,33 @@
+In file included from ../../../../../../taller3/conjunto-tests.cpp:2:0:
+./Conjunto.h: In instantiation of ‘Conjunto<T>::Nodo::Nodo(const T&) [with T = int]’:
+./Conjunto.hpp:5:13:   required from ‘Conjunto<T>::Conjunto() [with T = int]’
+../../../../../../taller3/conjunto-tests.cpp:9:19:   required from here
+./Conjunto.h:82:19: warning: ‘Conjunto<int>::Nodo::der’ will be initialized after [-Wreorder]
+             Nodo* der;
+                   ^~~
+./Conjunto.h:78:19: warning:   ‘Conjunto<int>::Nodo* Conjunto<int>::Nodo::padre’ [-Wreorder]
+             Nodo* padre;
+                   ^~~~~
+./Conjunto.h:70:13: warning:   when initialized here [-Wreorder]
+             Nodo(const T& v) :
+             ^~~~
+In file included from ./Conjunto.h:109:0,
+                 from ../../../../../../taller3/conjunto-tests.cpp:2:
+./Conjunto.hpp: In member function ‘bool Conjunto<T>::pertenece(const T&) const [with T = int]’:
+./Conjunto.hpp:93:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+In file included from ./Conjunto.h:109:0,
+                 from ../../../../../../taller3/conjunto-tests.cpp:2:
+./Conjunto.hpp: In member function ‘const T& Conjunto<T>::minimo() const [with T = int]’:
+./Conjunto.hpp:318:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+./Conjunto.hpp: In member function ‘const T& Conjunto<T>::maximo() const [with T = int]’:
+./Conjunto.hpp:350:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+./Conjunto.hpp: In member function ‘const T& Conjunto<T>::siguiente(const T&) [with T = int]’:
+./Conjunto.hpp:284:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^

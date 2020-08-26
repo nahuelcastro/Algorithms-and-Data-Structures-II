@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/Fecha.cpp
+Periodo.h
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/Periodo.h
+Funciones.h
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/Funciones.h
+
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/Funciones.h
+meses.h
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/meses.h
+
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/Periodo.h
+
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_compilacion_testing/src/meses.h
+

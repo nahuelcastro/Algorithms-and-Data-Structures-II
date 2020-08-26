@@ -1,0 +1,6 @@
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest.dir
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nahuel/Desktop/algo2/Taller/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir

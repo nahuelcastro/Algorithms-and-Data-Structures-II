@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="algo2_labo_clase4" targetName="ej2_correrValgrind" />
+      <config projectName="algo2_labo_clase4" targetName="ej3_correrValgrind" />
+      <config projectName="algo2_labo_clase4" targetName="gtest_main" />
+      <config projectName="algo2_labo_clase4" targetName="ej7" />
+      <config projectName="algo2_labo_clase4" targetName="ej6" />
+      <config projectName="algo2_labo_clase4" targetName="ej5_correrValgrind" />
+      <config projectName="algo2_labo_clase4" targetName="ej3" />
+      <config projectName="algo2_labo_clase4" targetName="ej1" />
+      <config projectName="algo2_labo_clase4" targetName="ej4" />
+      <config projectName="algo2_labo_clase4" targetName="gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e31f0d1-8b15-41ac-ad18-4488ecc4ae37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bSazfhGgaBCJIu1Nql0xvJfupL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ejercitacion listas" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RunManager" selected="Google Test.All in sdm_tests.cpp">
+    <configuration name="All in sdm_tests.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej1" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej1" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/tests/sdm_tests.cpp)" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej1" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej1" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej3" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej3" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej4" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej4" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej6" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej6" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej7" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo2_labo_clase4" RUN_TARGET_NAME="ej7" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej2_correrValgrind" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej2_correrValgrind" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej3_correrValgrind" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej3_correrValgrind" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej5_correrValgrind" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="ej5_correrValgrind" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo2_labo_clase4" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.All in sdm_tests.cpp" />
+      <item itemvalue="Google Test.ej1" />
+      <item itemvalue="Google Test.ej3" />
+      <item itemvalue="Google Test.ej4" />
+      <item itemvalue="Google Test.ej6" />
+      <item itemvalue="Google Test.ej7" />
+      <item itemvalue="CMake Application.ej2_correrValgrind" />
+      <item itemvalue="CMake Application.ej3_correrValgrind" />
+      <item itemvalue="CMake Application.ej5_correrValgrind" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.All in sdm_tests.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e31f0d1-8b15-41ac-ad18-4488ecc4ae37" name="Default Changelist" comment="" />
+      <created>1588628212280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588628212280</updated>
+      <workItem from="1588628214107" duration="888000" />
+      <workItem from="1589077015353" duration="28000" />
+      <workItem from="1589413470261" duration="9777000" />
+      <workItem from="1589927393493" duration="727000" />
+      <workItem from="1590271596355" duration="866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="311" width="424" height="482" key="FileChooserDialogImpl" timestamp="1590275227107">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="482" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590275227107" />
+    <state width="860" height="456" key="GridCell.Tab.0.bottom" timestamp="1589422773496">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1589422773496" />
+    <state width="860" height="456" key="GridCell.Tab.0.center" timestamp="1589422773495">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1589422773495" />
+    <state width="860" height="456" key="GridCell.Tab.0.left" timestamp="1589422773494">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1589422773494" />
+    <state width="860" height="456" key="GridCell.Tab.0.right" timestamp="1589422773495">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1589422773495" />
+    <state width="860" height="456" key="GridCell.Tab.1.bottom" timestamp="1589422772613">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1589422772613" />
+    <state width="860" height="456" key="GridCell.Tab.1.center" timestamp="1589422772611">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1589422772611" />
+    <state width="860" height="456" key="GridCell.Tab.1.left" timestamp="1589422772610">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1589422772610" />
+    <state width="860" height="456" key="GridCell.Tab.1.right" timestamp="1589422772612">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="860" height="456" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1589422772612" />
+    <state x="482" y="188" width="1133" height="730" key="SettingsEditor" timestamp="1589421287967">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" width="1133" height="730" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1589421287967" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1589936074187">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1589936074187" />
+  </component>
+</project>

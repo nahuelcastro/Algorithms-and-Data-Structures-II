@@ -8,7 +8,7 @@ Set of group and individual works in my course on Algorithms and Data Structures
 ### Program
 1. Abstract types of data and problems
 
-    1. Abstract data types: Linked list; stack; Queue; Array; Binary tree; Set; Map.
+    1. Abstract data types: Linked list; Stack; Queue; Array; Binary tree; Set; Map.
 
     1. Specification: description of problems using abstract types; modularization.
 
